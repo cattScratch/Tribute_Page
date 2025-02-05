@@ -1,0 +1,12 @@
+.content{
+background:lightgrey;
+
+}
+h2{
+  margin-left: 150px;
+  
+}
+.smaller-image{
+  max-width: 100%;
+  display: block;
+}
